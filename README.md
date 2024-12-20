@@ -1,4 +1,4 @@
-# Spotify
+# flutter_spotify
 
 This is a Spotify clone app built based on the **Spotify Redesign - Free UI Kit** from Figma Community. It leverages **BLoC** for state management, **Firebase** for authentication and data storage, and **Clean Architecture** to ensure better code maintainability.
 

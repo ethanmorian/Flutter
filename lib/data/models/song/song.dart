@@ -1,5 +1,5 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:spotify/domain/entities/song/song.dart';
+import 'package:flutter_spotify/domain/entities/song/song.dart';
 
 class SongModel {
   String? title;

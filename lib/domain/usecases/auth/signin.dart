@@ -1,6 +1,6 @@
 import 'package:dartz/dartz.dart';
-import 'package:spotify/core/usecase/usecase.dart';
-import 'package:spotify/data/models/auth/signin_user_req.dart';
+import 'package:flutter_spotify/core/usecase/usecase.dart';
+import 'package:flutter_spotify/data/models/auth/signin_user_req.dart';
 import 'package:spotify/domain/repositories/auth/auth.dart';
 import 'package:spotify/service_locator.dart';
 

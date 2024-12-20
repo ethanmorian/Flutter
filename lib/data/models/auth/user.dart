@@ -1,4 +1,4 @@
-import 'package:spotify/domain/entities/auth/user.dart';
+import 'package:flutter_spotify/domain/entities/auth/user.dart';
 
 class UserModel {
   String? fullName;

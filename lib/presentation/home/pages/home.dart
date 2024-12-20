@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
-import 'package:spotify/common/helpers/is_dark_mode.dart';
-import 'package:spotify/common/widgets/appbar/app_bar.dart';
+import 'package:flutter_spotify/common/helpers/is_dark_mode.dart';
+import 'package:flutter_spotify/common/widgets/appbar/app_bar.dart';
 import 'package:spotify/core/config/assets/app_images.dart';
 import 'package:spotify/core/config/assets/app_vectors.dart';
 import 'package:spotify/core/config/theme/app_colors.dart';

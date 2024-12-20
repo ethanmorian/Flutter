@@ -1,10 +1,10 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:dartz/dartz.dart';
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:spotify/data/models/song/song.dart';
-import 'package:spotify/domain/entities/song/song.dart';
-import 'package:spotify/domain/usecases/song/is_favorite_song.dart';
-import 'package:spotify/service_locator.dart';
+import 'package:flutter_spotify/data/models/song/song.dart';
+import 'package:flutter_spotify/domain/entities/song/song.dart';
+import 'package:flutter_spotify/domain/usecases/song/is_favorite_song.dart';
+import 'package:flutter_spotify/service_locator.dart';
 
 abstract class SongFirebaseService {
   Future<Either> getNewsSongs();

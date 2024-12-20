@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:spotify/common/helpers/is_dark_mode.dart';
+import 'package:flutter_spotify/common/helpers/is_dark_mode.dart';
 import 'package:spotify/common/widgets/favorite_button/favorite_button.dart';
 import 'package:spotify/core/config/theme/app_colors.dart';
 import 'package:spotify/domain/entities/song/song.dart';

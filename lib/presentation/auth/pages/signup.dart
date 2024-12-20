@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-import 'package:spotify/common/widgets/appbar/app_bar.dart';
+import 'package:flutter_spotify/common/widgets/appbar/app_bar.dart';
 import 'package:spotify/common/widgets/button/basic_app_button.dart';
 import 'package:spotify/core/config/assets/app_vectors.dart';
 import 'package:spotify/data/models/auth/create_user_req.dart';

@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:spotify/common/bloc/favorite_button/favorite_button_cubit.dart';
-import 'package:spotify/common/bloc/favorite_button/favorite_button_state.dart';
-import 'package:spotify/core/config/theme/app_colors.dart';
-import 'package:spotify/domain/entities/song/song.dart';
+import 'package:flutter_spotify/common/bloc/favorite_button/favorite_button_cubit.dart';
+import 'package:flutter_spotify/common/bloc/favorite_button/favorite_button_state.dart';
+import 'package:flutter_spotify/core/config/theme/app_colors.dart';
+import 'package:flutter_spotify/domain/entities/song/song.dart';
 
 class FavoriteButton extends StatelessWidget {
   final SongEntity songEntity;

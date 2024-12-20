@@ -1,7 +1,7 @@
 import 'package:dartz/dartz.dart';
-import 'package:spotify/data/sources/song/song_firebase_service.dart';
-import 'package:spotify/domain/repositories/song/song.dart';
-import 'package:spotify/service_locator.dart';
+import 'package:flutter_spotify/data/sources/song/song_firebase_service.dart';
+import 'package:flutter_spotify/domain/repositories/song/song.dart';
+import 'package:flutter_spotify/service_locator.dart';
 
 class SongRepositoryImpl extends SongRepository {
   @override

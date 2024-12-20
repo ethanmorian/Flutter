@@ -1,6 +1,6 @@
-import 'package:spotify/core/usecase/usecase.dart';
-import 'package:spotify/domain/repositories/song/song.dart';
-import 'package:spotify/service_locator.dart';
+import 'package:flutter_spotify/core/usecase/usecase.dart';
+import 'package:flutter_spotify/domain/repositories/song/song.dart';
+import 'package:flutter_spotify/service_locator.dart';
 
 class IsFavoriteSongUseCase implements UseCase<bool, String> {
   @override
